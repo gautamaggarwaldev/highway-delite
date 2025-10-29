@@ -354,8 +354,8 @@ MIT License - feel free to use this project for learning or commercial purposes.
 ## 👨‍💻 Author
 
 Gautam Aggarwal
-- GitHub: [@gautamaggarwaldev]
-- LinkedIn: [https://www.linkedin.com/in/gautam-aggarwal-/]
+- GitHub: @gautamaggarwaldev
+- LinkedIn: https://www.linkedin.com/in/gautam-aggarwal-/
 
 ## 🙏 Acknowledgments
 
@@ -370,5 +370,6 @@ For questions or issues:
 - Email: gautam.aggarwal.tech@gmail.com
 
 ---
+
 
 **⭐ If you like this project, please give it a star!**
